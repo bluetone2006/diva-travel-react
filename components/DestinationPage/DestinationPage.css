@@ -1,0 +1,10 @@
+.destination-page {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 932px;
+  padding: 23px 0;
+  width: 430px;
+}
+

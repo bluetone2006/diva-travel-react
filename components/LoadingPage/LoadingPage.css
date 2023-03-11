@@ -1,0 +1,7 @@
+.loading-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 430px;
+}
+
